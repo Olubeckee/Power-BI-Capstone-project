@@ -19,3 +19,9 @@ The CEO of Palmoria, Mr Ayodeji Chukwuma is keen to address these
 issues before it gets out of hands. The CHRO, Mr. Yunus Shofoluwe has 
 been assigned the task to identify key areas within the business that 
 could spring up issues and address them immediately
+
+## The Business Solution
+
+# For this case study my final result was an interactive strategic report 
+in Power BI from which Management can make their decisions by
+evaluating the following ;
