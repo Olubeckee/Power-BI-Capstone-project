@@ -22,6 +22,4 @@ could spring up issues and address them immediately
 
 ## The Business Solution
 
-### For this case study my final result was an interactive strategic report 
-in Power BI from which Management can make their decisions by
-evaluating the following ;
+### For this case study my final result was an interactive strategic report in Power BI from which Management can make their decisions byevaluating the following ;
