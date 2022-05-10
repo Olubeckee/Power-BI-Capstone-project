@@ -63,3 +63,16 @@ I followed this approach in modelling the solution above for the business challe
 To give an accurate solution to the Business problem, you need to have proper understanding of the the business.it creates a road-map for moving forward, framing the business problem and proffering effective business solutions.
 
 ### *The main goal of this cas study is to help the Palmoria group to know whether there are gender related issues within the organization and its regions*
+
+In order to communicate effectively with management so action can be made based on the insights generated there is need to leverage on business intelligence applications. For this business case I leveraged on Microsoft Power BI for my data analysis and visualization.
+
+## DATA UNDERSTANDING
+
+## A Microsoft Excel Worksheet (.xlsx) dataset was provided for analysis consisting of 1016 rows and 6 columns
+
+The Palmoria Data workbook consist of the Name, Gender, Department, Salary, Location and Rating
+
+An overview of the datasets are shown below;
+
+![Screenshot (94)](https://user-images.githubusercontent.com/96060060/167632149-80210450-9ba1-4914-b1ae-afd423ddfb2b.png)
+
