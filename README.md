@@ -22,7 +22,7 @@ could spring up issues and address them immediately
 
 ## The Business Solution
 
-### For this case study my final result was an interactive strategic report in Power BI from which Management can make their decisions byevaluating the following ;
+### For this case study my final report in Power BI will make the  Management make their decisions by evaluating the following ;
 
 1. What is the gender distribution in the organization? Distil to 
 regions and departments
@@ -52,3 +52,7 @@ employees
 - Calculate the total amount to be paid to individual employees 
 (salary inclusive of bonus)
 - Total amount to be paid out per region and company-wide
+
+## THE APPROACH
+I followed this approach in modelling the solution above for the business challenge:
+
