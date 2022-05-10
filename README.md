@@ -76,3 +76,4 @@ An overview of the datasets are shown below;
 
 ![Screenshot (94)](https://user-images.githubusercontent.com/96060060/167632149-80210450-9ba1-4914-b1ae-afd423ddfb2b.png)
 
+From the overview of datasets displayed above, it’s imperative we prepare the datasets before analysis and visualization is carried out.
