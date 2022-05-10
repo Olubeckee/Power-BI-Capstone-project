@@ -56,3 +56,4 @@ employees
 ## THE APPROACH
 I followed this approach in modelling the solution above for the business challenge:
 
+![1_hAuqn2Ap4bfpuPOZfHKO_w](https://user-images.githubusercontent.com/96060060/167625450-342e6109-fb26-4a89-a0ef-3dd05263d4f1.png)
