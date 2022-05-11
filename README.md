@@ -116,9 +116,37 @@ In addition I also got the toatal salary paid out by adding the bonus per employ
 ## Insights from the analysis
 In order for management to make the best decision has know whether there are  gender related issues within the organization and its region I have summarized below some key insights which will guide management in the next step to take.
 
-There are 
+### 1 The Gender Distribution by Region and Department
+The total male staff in Lagos is 124 while the female staff is 118
+In Abuja, total male staff is 159 while the female staff is 158
+In Kaduna, total male staff 182 while the female staff is 165
 
-| Gender | Region | Total Number |
-| M | Lagos | 182 |
-| Header | Title |
-| Paragraph | Text |
+![Screenshot (102)](https://user-images.githubusercontent.com/96060060/167954976-53fefa0e-40b8-4ac4-923c-035d27961ce4.png)
+
+ 2  Insights on ratings based on gender
+
+![Screenshot (101)](https://user-images.githubusercontent.com/96060060/167955345-d904e05c-d082-4d5c-8be5-285ae17505e9.png)
+
+ 3 Gender pay Gap
+
+![Screenshot (103)](https://user-images.githubusercontent.com/96060060/167955911-6ff976d4-9174-4942-a254-7883b53aa5eb.png)
+
+ Minimum pay: The mimimum pay in Palmoria company is $28000 which means the company does not meet the minimum pay rule set for manufacturing Company.
+ Below is the pay distribution of each employee
+
+![image](https://user-images.githubusercontent.com/96060060/167956648-b748f886-e7ec-4a79-ad7c-3b26a184697c.png)
+
+The bonus paid  to each individual employee, total amount paid to individual employees (salary inclusive of bonus) and total amount to be paid out per region and company-wide is shown below
+
+![Screenshot (105)](https://user-images.githubusercontent.com/96060060/167957536-dfae6490-4219-423b-a5a6-bd248ab2f3b0.png)
+
+
+## DATA VISUALIZATION
+I created a data visualization to  communicate effectively this insights generated to the management of pamoria company by taking into consideration the techniques and steps involved in data visualization.
+To get the whole visualization of this report, check the file in the code folder of this Portfolio
+
+## CONCLUSION
+The insights derived have been able to answer key questions that will guide management in taking action to meet the set objective of the business.
+
+
+
