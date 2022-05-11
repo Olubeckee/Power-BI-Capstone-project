@@ -118,11 +118,11 @@ In order for management to make the best decision has know whether there are  ge
 
 ### 1 The Gender Distribution by Region and Department
 
-The total male staff in Lagos is 124 while the female staff is 118
+The total male Employees in Lagos is 124 while the female Employees is 118
 
-In Abuja, total male staff is 159 while the female staff is 158
+In Abuja, total male Employees is 159 while the female Employees is 158
 
-In Kaduna, total male staff 182 while the female staff is 165
+In Kaduna, total male Employees 182 while the female Employees is 165
 
 ![Screenshot (102)](https://user-images.githubusercontent.com/96060060/167954976-53fefa0e-40b8-4ac4-923c-035d27961ce4.png)
 
