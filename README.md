@@ -89,8 +89,36 @@ The next step I took was to extract my already formatted Excel workbook into Pow
 
 The Power query tool in Power BI is used to get and transform data for appropriate analysis. Upon clicking Transform Data and navigating to power query window, I explored the data composition in order to know if any necessary data cleaning is needed by leveraging the Data Profiling Distributor feature which gives a summary of the column quality, distribution and profile.
 
-While exploring the data i discovered that there where some empty spaces in the the Gender and Salary column. So in the Gender Column I replaced those empty spaces with 'Undisclosed' while in the Salary column I replaced the empty spaces with 'Null'. I also ensured the data type was in the right format for each column as it is imperative to be able to analyze effectively and generate accurate result.
+While exploring the data I discovered that there were some empty spaces in the the Gender and Salary column. So in the Gender Column I replaced those empty spaces with 'Undisclosed' while in the Salary column I replaced the empty spaces with 'Null'. I also ensured the data type was in the right format for each column as it is imperative to be able to analyze effectively and generate accurate result.
 
 ![Screenshot (95)](https://user-images.githubusercontent.com/96060060/167920682-13634874-0596-4af7-a3b8-5ddd0af19809.png)
 
-## DATA MODELLING
+## DATA ANALYSIS
+In other to answer the key questions needed to make the business decision there is need to analyze the data provided to gain insights which will then be visualized to effectively communicate to management.
+
+The first thing I did in extracting insights from the data provided was to use a Data Analysis Expression(DAX) in creating a salary band for the employees to know each employee's salary band. i achieved this result by using the 'SWITCH COMMAND'. 
+
+![Screenshot (96)](https://user-images.githubusercontent.com/96060060/167950544-26f4ef10-b9a7-4a6d-991a-e47259f8aaeb.png)
+
+The second thing I did with the Data Analysis Expression(DAX) was that i created a bonus percentage column for each of the rating amd for each department by using the the 'if' command
+
+![Screenshot (96)](https://user-images.githubusercontent.com/96060060/167950835-b0c63209-79c5-42b2-b68f-baca6591f034.png)
+
+I also created a column which contains amount to be paid as bonus to the employees. I got that by multiplying the bonus percentage by the salary
+
+![Screenshot (99)](https://user-images.githubusercontent.com/96060060/167951293-12105f5c-fcb8-4d1c-be15-88c62c96ea6a.png)
+
+In addition I also got the toatal salary paid out by adding the bonus per employee with the the salary
+
+![Screenshot (100)](https://user-images.githubusercontent.com/96060060/167951374-f5989536-edc4-4b61-86c8-b8fd5fad00e4.png)
+
+
+## Insights from the analysis
+In order for management to make the best decision has know whether there are  gender related issues within the organization and its region I have summarized below some key insights which will guide management in the next step to take.
+
+There are 
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
