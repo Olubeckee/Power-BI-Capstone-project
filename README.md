@@ -76,4 +76,21 @@ An overview of the datasets are shown below;
 
 ![Screenshot (94)](https://user-images.githubusercontent.com/96060060/167632149-80210450-9ba1-4914-b1ae-afd423ddfb2b.png)
 
-From the overview of datasets displayed above, it’s imperative we prepare the datasets before analysis and visualization is carried out.
+From the overview of datasets displayed above, it’s important and necessary we prepare the datasets before analysis and visualization is carried out.
+
+## DATA PREPARATION
+In preparing the data the first step taken was to Prepare the Excel workbook, ensuring the Excel file was shapened as seen in the figures displayed above, what this means is i  converted the data(columns & rows) to Standard Excel table format.
+
+This was to ensure only the required table needed for analysis is loaded into PowerBi, If the workbook is not prepared in this way PowerBI will just ignore it and give you  a wrong results.
+
+The next step I took was to extract my already formatted Excel workbook into PowerBI and load into Power Query Editor for proper data preparation.
+
+## Data Prep in Power Query
+
+The Power query tool in Power BI is used to get and transform data for appropriate analysis. Upon clicking Transform Data and navigating to power query window, I explored the data composition in order to know if any necessary data cleaning is needed by leveraging the Data Profiling Distributor feature which gives a summary of the column quality, distribution and profile.
+
+While exploring the data i discovered that there where some empty spaces in the the Gender and Salary column. So in the Gender Column I replaced those empty spaces with 'Undisclosed' while in the Salary column I replaced the empty spaces with 'Null'. I also ensured the data type was in the right format for each column as it is imperative to be able to analyze effectively and generate accurate result.
+
+![Screenshot (95)](https://user-images.githubusercontent.com/96060060/167920682-13634874-0596-4af7-a3b8-5ddd0af19809.png)
+
+## DATA MODELLING
