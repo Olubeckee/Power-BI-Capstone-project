@@ -118,7 +118,7 @@ In order for management to make the best decision has know whether there are  ge
 
 There are 
 
-| Syntax | Description |
-| ----------- | ----------- |
+| Gender | Region | Total Number |
+| M | Lagos | 182 |
 | Header | Title |
 | Paragraph | Text |
