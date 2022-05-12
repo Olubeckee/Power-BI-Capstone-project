@@ -68,7 +68,7 @@ In order to communicate effectively with management so action can be made based 
 
 ## DATA UNDERSTANDING
 
-## A Microsoft Excel Worksheet (.xlsx) dataset was provided for analysis consisting of 1016 rows and 6 columns
+## A Microsoft Excel Worksheet (csv) dataset was provided for analysis consisting of 1016 rows and 6 columns
 
 The Palmoria Data workbook consist of the Name, Gender, Department, Salary, Location and Rating
 
